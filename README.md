@@ -25,8 +25,8 @@
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) &nbsp;
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white) &nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) &nbsp;
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) &nbsp;
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
+
+
 
 
 ### **Frameworks & Libraries**  
