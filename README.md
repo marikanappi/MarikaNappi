@@ -13,12 +13,7 @@
      
 📘 Currently working on **academic and personal projects** to enhance my skills  
 
----
 
-## 🌐 Socials  
-[Instagram](#) • [LinkedIn](#) • [Email](#)  
-
----
 
 ## 🛠️ Tech Skills  
 
