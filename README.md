@@ -4,7 +4,6 @@
 
 ## About Me
 
-👋 Hi! I'm **Marika Nappi**  
 🎓 Master's student in **Computer Engineering** at *Politecnico di Torino*  
 🚀 Experience with:  
    - **Web development** (JavaScript)    
@@ -31,7 +30,6 @@
 
 ### **Frameworks & Libraries**  
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) &nbsp;
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white) &nbsp;
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white) &nbsp;
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) &nbsp;
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white) &nbsp;
