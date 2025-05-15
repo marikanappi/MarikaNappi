@@ -4,7 +4,7 @@
 
 ## About Me
 
-🎓 Master's student in **Computer Engineering** at *Politecnico di Torino*  
+🎓 Master's student in **Artificial Intelligence and Data Analytics** at *Politecnico di Torino*  
 🚀 Experience with:  
    - **Web development** (JavaScript)    
    - **System-level projects** (Rust)  
